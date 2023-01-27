@@ -1,0 +1,8 @@
+prog {
+  int x = 1;
+  int y = 2;
+  if (x = y) {
+    int a = 3;
+  }
+  print y;
+}

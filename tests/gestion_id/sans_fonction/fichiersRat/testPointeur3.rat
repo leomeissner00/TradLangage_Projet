@@ -1,0 +1,6 @@
+test{
+    int * p = (new int);
+    int x = 1;
+    p = &x;
+
+}

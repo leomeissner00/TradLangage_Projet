@@ -1,0 +1,6 @@
+test{
+    rat * p = (new rat);
+    rat a = [1/2];
+    p = &a;
+    rat b = (*p);
+}

@@ -1,0 +1,6 @@
+test{
+    bool * p = (new bool);
+    bool a = true;
+    p = &a;
+    bool b = (*p);
+}

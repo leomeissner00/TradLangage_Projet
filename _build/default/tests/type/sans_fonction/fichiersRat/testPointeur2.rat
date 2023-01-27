@@ -1,0 +1,4 @@
+test{
+    int * p = null;
+    p = (new int);
+}

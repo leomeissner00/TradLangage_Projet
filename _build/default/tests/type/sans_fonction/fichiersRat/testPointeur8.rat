@@ -1,0 +1,5 @@
+test{
+    bool * p = (new bool);
+    int a = 1;
+    p = &a;
+}

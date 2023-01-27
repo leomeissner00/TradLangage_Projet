@@ -1,0 +1,8 @@
+test{
+int x = 0;
+loop {
+    if (x=24){break;}
+    print x;
+    x = (x+1);
+}
+}
